@@ -1,0 +1,23 @@
+{
+  "name": "derek",
+  "version": "0.0.1",
+  "description": "A SLOBS overlay for doing neat sheet",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Perfect5th/derek.git"
+  },
+  "keywords": [
+    "streaming",
+    "OBS"
+  ],
+  "author": "Mario Viens, Mitchell Burton",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/Perfect5th/derek/issues"
+  },
+  "homepage": "https://github.com/Perfect5th/derek#readme"
+}

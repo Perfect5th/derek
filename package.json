@@ -4,7 +4,9 @@
   "description": "A SLOBS overlay for doing neat sheet",
   "main": "index.js",
   "scripts": {
-    "test": "npm run test"
+    "build": "tsc",
+    "prestart": "npm run build",
+    "start": "node build/index.js"
   },
   "repository": {
     "type": "git",

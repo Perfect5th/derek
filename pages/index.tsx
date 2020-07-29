@@ -1,4 +1,4 @@
-import React from 'react'
+import * as React from 'react'
 
 const HomePage = (): React.ReactNode  => <div>Welcome to Next.js!</div>
 

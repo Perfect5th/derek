@@ -7,10 +7,12 @@
 
 ## How to Derek
 
+Derek uses [Next.js](https://nextjs.org).
+
 Clone Derek (is human cloning illegal?), then
 
     $ nvm use
     $ npm install
-    $ npm start
+    $ npm run dev
     ...
-    Server is listening at http://localhost:8000/
+    ready - started server on http://localhost:3000

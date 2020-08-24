@@ -23,6 +23,7 @@ module.exports = {
   ],
   "rules": {
     "indent": ["error", 2],
-    "semi-style": ["error", "first"]
+    "semi-style": ["error", "first"],
+    "react/prop-types": 0
   }
 };

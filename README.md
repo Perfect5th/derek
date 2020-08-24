@@ -7,8 +7,6 @@
 
 ## How to Derek
 
-Derek uses [Next.js](https://nextjs.org).
-
 Clone Derek (is human cloning illegal?), then
 
     $ nvm use
@@ -16,3 +14,16 @@ Clone Derek (is human cloning illegal?), then
     $ npm run dev
     ...
     ready - started server on http://localhost:3000
+
+## Testing
+
+To run tests, run:
+
+```
+~todo: list a command here~
+```
+
+## Technology
+
+Derek uses [Next.js](https://nextjs.org).
+

@@ -38,7 +38,7 @@
     "next": "^14.2.15",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "sequelize": "^6.3.4",
+    "sequelize": "^6.37.5",
     "sqlite3": "^5.0.0",
     "typescript": "^3.9.7"
   }

@@ -39,7 +39,7 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "sequelize": "^6.3.4",
-    "sqlite3": "^5.0.0",
+    "sqlite3": "^5.1.7",
     "typescript": "^3.9.7"
   }
 }
